@@ -5,8 +5,8 @@ Transposition du projet « sentiment-app » (TP1→TP6, du cadrage au paquet)
 chacune ne parle qu'à sa voisine.
 
 ```
-« Stock suffisant et délai de livraison standard » → supply-plan-app → OK, confiance 0,78
-« Rupture de stock probable, délai fournisseur inconnu » → supply-plan-app → RISQUE, confiance 0,75
+« Stock suffisant et délai de livraison standard » → supply-plan-app → OK, confiance 0,82
+« Rupture de stock probable, délai fournisseur inconnu » → supply-plan-app → RISQUE, confiance 0,64
 ```
 
 Des **demandes supply-chain en français**, deux classes : **ok** (planifiable)
@@ -70,4 +70,14 @@ supply ui
 ## Jeu d'or
 
 `data/jeu_or.csv` : 20 demandes de référence. Une erreur connue se déclare
-(`erreur_connue` → `xfail strict=True`), elle ne se cache pas.
+(`erreur_connue` → `xfail`), elle ne se cache pas : 11 justes, 8 abstentions,
+1 erreur franche déclarée (avis qui se retourne).
+
+## Résultats vérifiés
+
+- Modèle : F1 macro 1,000 sur 58 demandes jamais vues (jeu de démonstration
+  très séparable) ; rappel des risques 1,000 ; vocabulaire 441 termes.
+- Suite : `139 passed, 2 xfailed` (plus les 3 tests Git en solo).
+- Couverture API : 98 % (seuil CI 95 %). `ruff` et `mypy api` verts.
+- Roue `supply_plan_app-0.6.0-py3-none-any.whl` construite, installée dans un
+  environnement neuf, puis `supply predict` renvoie OK / RISQUE / INDETERMINE.
