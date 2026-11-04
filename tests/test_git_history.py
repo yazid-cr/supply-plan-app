@@ -35,10 +35,10 @@ def test_au_moins_un_commit():
 
 @pytest.mark.skipif(SANS_GIT, reason="Depot Git non initialise")
 def test_deux_auteurs_distincts():
-    auteurs_lignes = git("log", "--format=%an", "HEAD").splitlines()
+    noms = git("log", "--format=%an", "HEAD").splitlines()
     # en solo : le meme auteur accepte, on verifie que l'historique existe
-    assert len(duteurs_lignes) >= 1
-    assert auteurs_lignes[0] != ""
+    assert len(noms) >= 1
+    assert noms[0] != ""
 
 
 @pytest.mark.skipif(SANS_GIT, reason="Depot Git non initialise")
