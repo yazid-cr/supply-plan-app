@@ -1,0 +1,44 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Environnement virtuel et dependances
+        run: |
+          python -m venv .venv
+          . .venv/bin/activate && pip install "scikit-learn==1.5.*" -r requirements.txt
+
+      - name: Diagnostic
+        run: . .venv/bin/activate && python scripts/check_setup.py
+
+      - name: Modele de demonstration, pour les tests de l'API (TP3)
+        run: . .venv/bin/activate && python src/make_demo.py && python src/train.py
+
+      - name: ruff
+        run: . .venv/bin/activate && ruff check .
+
+      - name: mypy
+        run: . .venv/bin/activate && mypy api
+
+      - name: Tests et couverture
+        run: . .venv/bin/activate && pytest -q --cov=api --cov-report=term-missing --cov-fail-under=95
+
+      - name: Paquet (roue) + installation ailleurs (TP6)
+        run: |
+          . .venv/bin/activate && python -m build --wheel
+          python -m venv /tmp/roue-tp6
+          /tmp/roue-tp6/bin/pip install dist/supply_plan_app-0.6.0-py3-none-any.whl
+          SUPPLY_MODELE="$PWD/models/supply.joblib" /tmp/roue-tp6/bin/supply --version
+          SUPPLY_MODELE="$PWD/models/supply.joblib" /tmp/roue-tp6/bin/supply predict "Stock suffisant et delai standard"

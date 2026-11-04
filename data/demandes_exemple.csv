@@ -1,0 +1,7 @@
+text,label
+Stock suffisant et delai de livraison standard sans tension capacitaire,ok
+Rupture de stock probable et delai fournisseur inconnu,risque
+Fournisseur fiable et stock de securite eleve,ok
+Retard de livraison critique et fournisseur unique en defaillance capacitaire,risque
+Demande reguliere avec lead time court et rupture improbable,ok
+"Stock inferieur au seuil de securite, rupture imminente",risque

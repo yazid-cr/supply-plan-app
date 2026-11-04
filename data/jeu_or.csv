@@ -1,0 +1,21 @@
+text,attendu,difficulte,erreur_connue
+"Colis arrive en avance, article parfait, je recommande",POSITIVE,,
+"Emballage soigne, je suis tres satisfait",POSITIVE,,
+"Livraison rapide, produit conforme, tres satisfait",POSITIVE,,
+"Produit casse et service injoignable, a fuir",NEGATIVE,,
+"Stock suffisant et delai de livraison standard sans tension capacitaire",OK,,
+"Rupture de stock probable et delai fournisseur inconnu",RISQUE,,
+"Fournisseur fiable et stock de securite eleve",OK,,
+"Retard de livraison critique et fournisseur unique en defaillance capacitaire",RISQUE,,
+"Demande reguliere avec lead time court et rupture improbable",OK,,
+"Stock inferieur au seuil de securite, rupture imminente",RISQUE,,
+"Taille trop petite et retour payant au deballage sauf que ensuite produit conforme a la description tres satisfait",POSITIVE,,avis qui se retourne : l'ordre des mots est ignore
+"Stock critique sauf que ensuite approvisionnement confirme et livraison a lheure",OK,,avis qui se retourne : l'ordre des mots est ignore
+"Demande urgente mais fournisseur fiable et stock eleve",OK,,
+"Penurie mondiale de matiere premiere strategique",RISQUE,,
+"Transport disponible sans retard constate",OK,,
+"Greve du transporteur, livraison impossible a temps",RISQUE,,
+"Produit standard delai fournisseur maitrise",OK,,
+"Capacite entrepot saturee, stockage insuffisant",RISQUE,,
+"Niveau de stock eleve et consommation stable",OK,,
+"Fluctuation de change, couts en forte hausse",RISQUE,,

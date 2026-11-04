@@ -1,0 +1,1 @@
+"""Couche interface (TP5)."""

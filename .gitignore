@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+models/*.joblib
+data/demo_demandes.csv
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.hypothesis/
+.coverage
+resultats_planification.csv

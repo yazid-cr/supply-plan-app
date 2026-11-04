@@ -1,0 +1,25 @@
+{
+  "source": "demo",
+  "n_total": 290,
+  "n_train": 232,
+  "n_test": 58,
+  "f1_macro": 1.0,
+  "accuracy": 1.0,
+  "recall_risque": 1.0,
+  "recall_ok": 1.0,
+  "precision_risque": 1.0,
+  "precision_ok": 1.0,
+  "f1_risque": 1.0,
+  "f1_ok": 1.0,
+  "confusion": [
+    [
+      29,
+      0
+    ],
+    [
+      0,
+      29
+    ]
+  ],
+  "vocab_size": 441
+}
