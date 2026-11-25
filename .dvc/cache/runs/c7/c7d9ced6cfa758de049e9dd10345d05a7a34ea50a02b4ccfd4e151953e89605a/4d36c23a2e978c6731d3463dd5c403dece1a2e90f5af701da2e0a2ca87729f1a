@@ -1,0 +1,20 @@
+cmd: python src/prepare.py data/demo_demandes.csv
+deps:
+- path: data/demo_demandes.csv
+  hash: md5
+  md5: f8d5fa2b11ffda2033998363ad1f8062
+  size: 566072
+- path: src/prepare.py
+  hash: md5
+  md5: 0d88c40ca2beb3791a3d1ca4a990fd12
+  size: 1604
+params:
+  params.yaml:
+    prepare.seed: 42
+    prepare.test_size: 0.2
+outs:
+- path: data/prepared
+  hash: md5
+  md5: be84317cf8c550bd493bf0a1d70f553e.dir
+  size: 503242
+  nfiles: 2

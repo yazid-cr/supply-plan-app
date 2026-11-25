@@ -1,0 +1,684 @@
+text,label
+Demande panne équipement de production ligne arrêtée demande en forte hausse sans stock disponible avec approvisionnement planifié sans alerte,risque
+Commande grève transporteur impossible de livrer à temps tension sur les délais fournisseur risque de rupture identifié demande en forte hausse sans stock disponible,risque
+Batch stock de sécurité supérieur au besoin hebdomadaire avec fluctuation de change coûts en forte hausse,ok
+Plan fournisseur fiable historique de livraisons à l'heure demande saisonnière anticipée avec prévision,ok
+Plan quantité raisonnable entrepôt non saturé fournisseur fiable historique de livraisons à l'heure suite à tension sur les délais fournisseur risque de rupture identifié,ok
+Ordre approvisionnement planifié sans alerte demande régulière niveau de stock correct,ok
+Commande capacité fournisseur réduite de moitié ce trimestre panne équipement de production ligne arrêtée retard de livraison critique pénalités contractuelles sans fournisseur confirmé commande passée dans les délais,risque
+Demande stock suffisant fournisseur local délai court lead time court rupture improbable,ok
+Commande commande urgente mais inventaire disponible stock de sécurité supérieur au besoin hebdomadaire délai de livraison standard sans tension capacitaire,ok
+Ordre capacité fournisseur réduite de moitié ce trimestre lead time allongé transport perturbé par grève tension sur les délais fournisseur risque de rupture identifié malgré demande saisonnière anticipée avec prévision,risque
+Ordre stock de sécurité supérieur au besoin hebdomadaire transport disponible sans retard constaté demande régulière niveau de stock correct,ok
+Batch transport disponible sans retard constaté capacité entrepôt disponible stock de sécurité respecté sans grève transporteur impossible de livrer à temps,ok
+Demande demande saisonnière anticipée avec prévision demande saisonnière anticipée avec prévision sans stock critique approvisionnement non confirmé,ok
+Commande capacité fournisseur réduite de moitié ce trimestre fluctuation de change coûts en forte hausse panne équipement de production ligne arrêtée,risque
+Demande stock suffisant fournisseur local délai court capacité entrepôt disponible stock de sécurité respecté suite à tension sur les délais fournisseur risque de rupture identifié,ok
+Requête rupture de stock probable délai fournisseur inconnu capacité fournisseur réduite de moitié ce trimestre capacité fournisseur réduite de moitié ce trimestre,risque
+Plan tension sur les délais fournisseur risque de rupture identifié fluctuation de change coûts en forte hausse,risque
+Ordre stock de sécurité supérieur au besoin hebdomadaire niveau de stock élevé consommation stable approvisionnement confirmé date de réception stable malgré grève transporteur impossible de livrer à temps,ok
+Plan quantité raisonnable entrepôt non saturé approvisionnement planifié sans alerte,ok
+Demande stock de sécurité supérieur au besoin hebdomadaire niveau de stock élevé consommation stable avec lead time allongé transport perturbé par grève,ok
+Plan commande urgente aucun fournisseur disponible malgré stock suffisant fournisseur local délai court,risque
+Batch demande en forte hausse sans stock disponible capacité fournisseur réduite de moitié ce trimestre,risque
+Plan lead time court rupture improbable commande urgente mais inventaire disponible approvisionnement planifié sans alerte,ok
+Requête demande saisonnière anticipée avec prévision commande urgente mais inventaire disponible produit standard délai fournisseur maîtrisé,ok
+Plan delai livraison commande transport capacite fournisseur reduite de moitie ce trimestre grève transporteur impossible de livrer a temps,risque
+Requête fournisseur unique défaillance capacitaire signalée panne équipement de production ligne arrêtée saturation entrepôt capacité de stockage insuffisante et rupture évitée grâce au stock de sécurité,risque
+Ordre délais portuaires congestion douane incertaine retard de livraison critique pénalités contractuelles avec capacité entrepôt disponible stock de sécurité respecté,risque
+Plan delai livraison commande transport lead time court rupture improbable delai de livraison standard sans tension capacitaire rupture evitee grace au stock de securite ensuite commande urgente mais inventaire disponible,ok
+Plan approvisionnement confirmé date de réception stable,ok
+Commande délais portuaires congestion douane incertaine commande urgente aucun fournisseur disponible commande urgente aucun fournisseur disponible sans rupture évitée grâce au stock de sécurité,risque
+Commande grève transporteur impossible de livrer à temps délais portuaires congestion douane incertaine,risque
+Ordre approvisionnement confirmé date de réception stable demande saisonnière anticipée avec prévision demande saisonnière anticipée avec prévision,ok
+Plan capacite production fournisseur saturation entrepot capacite de stockage insuffisante,risque
+Demande saturation entrepôt capacité de stockage insuffisante retard de livraison critique pénalités contractuelles délais portuaires congestion douane incertaine,risque
+Batch tension sur les délais fournisseur risque de rupture identifié panne équipement de production ligne arrêtée retard de livraison critique pénalités contractuelles,risque
+Commande lead time court rupture improbable sans tension sur les délais fournisseur risque de rupture identifié,ok
+Ordre capacité fournisseur réduite de moitié ce trimestre grève transporteur impossible de livrer à temps,risque
+Plan commande urgente mais inventaire disponible délai de livraison standard sans tension capacitaire lead time court rupture improbable et retard de livraison critique pénalités contractuelles,ok
+Ordre matière première stratégique pénurie mondiale capacité fournisseur réduite de moitié ce trimestre stock inférieur au seuil de sécurité rupture imminente avec fournisseur fiable historique de livraisons à l'heure,risque
+Batch tension sur les délais fournisseur risque de rupture identifié et quantité raisonnable entrepôt non saturé,risque
+Batch quantité raisonnable entrepôt non saturé rupture évitée grâce au stock de sécurité quantité raisonnable entrepôt non saturé malgré capacité fournisseur réduite de moitié ce trimestre,ok
+Demande stock suffisant fournisseur local délai court,ok
+Plan transport disponible sans retard constaté délai de livraison standard sans tension capacitaire stock suffisant fournisseur local délai court,ok
+Batch panne équipement de production ligne arrêtée rupture de stock probable délai fournisseur inconnu,risque
+Requête rupture évitée grâce au stock de sécurité fournisseur confirmé commande passée dans les délais,ok
+Batch retard de livraison critique pénalités contractuelles fluctuation de change coûts en forte hausse,risque
+Ordre transport disponible sans retard constaté,ok
+Demande panne équipement de production ligne arrêtée délais portuaires congestion douane incertaine demande en forte hausse sans stock disponible avec fournisseur confirmé commande passée dans les délais,risque
+Requête grève transporteur impossible de livrer à temps fluctuation de change coûts en forte hausse malgré stock suffisant fournisseur local délai court,risque
+Batch lead time allongé transport perturbé par grève panne équipement de production ligne arrêtée suite à transport disponible sans retard constaté,risque
+Commande stock critique approvisionnement non confirmé matière première stratégique pénurie mondiale,risque
+Commande approvisionnement confirmé date de réception stable commande urgente mais inventaire disponible produit standard délai fournisseur maîtrisé,ok
+Demande stock fournisseur entrepot commande urgente mais inventaire disponible,ok
+Commande délai de livraison standard sans tension capacitaire quantité raisonnable entrepôt non saturé suite à rupture de stock probable délai fournisseur inconnu,ok
+Commande fluctuation de change coûts en forte hausse tension sur les délais fournisseur risque de rupture identifié fluctuation de change coûts en forte hausse,risque
+Commande panne équipement de production ligne arrêtée fluctuation de change coûts en forte hausse lead time allongé transport perturbé par grève,risque
+Commande matière première stratégique pénurie mondiale commande urgente aucun fournisseur disponible,risque
+Requête commande urgente mais inventaire disponible approvisionnement confirmé date de réception stable commande urgente mais inventaire disponible,ok
+Batch délai de livraison standard sans tension capacitaire et lead time allongé transport perturbé par grève,ok
+Ordre fournisseur fiable historique de livraisons à l'heure niveau de stock élevé consommation stable commande urgente mais inventaire disponible,ok
+Batch capacité entrepôt disponible stock de sécurité respecté quantité raisonnable entrepôt non saturé malgré matière première stratégique pénurie mondiale,ok
+Demande approvisionnement planifié sans alerte délai de livraison standard sans tension capacitaire,ok
+Plan fluctuation de change coûts en forte hausse avec transport disponible sans retard constaté,risque
+Commande delai livraison commande transport transport disponible sans retard constate niveau de stock eleve consommation stable niveau de stock eleve consommation stable puis stock de securite superieur au besoin hebdomadaire,ok
+Batch niveau de stock élevé consommation stable fournisseur confirmé commande passée dans les délais,ok
+Commande rupture de stock probable délai fournisseur inconnu commande urgente aucun fournisseur disponible,risque
+Demande quantité raisonnable entrepôt non saturé transport disponible sans retard constaté lead time court rupture improbable,ok
+Ordre capacité entrepôt disponible stock de sécurité respecté approvisionnement planifié sans alerte fournisseur fiable historique de livraisons à l'heure,ok
+Demande capacité entrepôt disponible stock de sécurité respecté avec stock critique approvisionnement non confirmé,ok
+Batch approvisionnement confirmé date de réception stable niveau de stock élevé consommation stable rupture évitée grâce au stock de sécurité,ok
+Ordre produit standard délai fournisseur maîtrisé rupture évitée grâce au stock de sécurité malgré délais portuaires congestion douane incertaine,ok
+Commande retard de livraison critique pénalités contractuelles grève transporteur impossible de livrer à temps demande en forte hausse sans stock disponible suite à fournisseur confirmé commande passée dans les délais,risque
+Demande lead time inventaire requete commande urgente mais inventaire disponible stock de securite superieur au besoin hebdomadaire stock de securite superieur au besoin hebdomadaire,ok
+Plan capacite production fournisseur demande en forte hausse sans stock disponible delais portuaires congestion suite douane incertaine finalement delais portuaires congestion suite douane incertaine,risque
+Batch lead time allongé transport perturbé par grève tension sur les délais fournisseur risque de rupture identifié,risque
+Ordre délais portuaires congestion douane incertaine stock inférieur au seuil de sécurité rupture imminente fluctuation de change coûts en forte hausse suite à demande régulière niveau de stock correct,risque
+Requête quantité raisonnable entrepôt non saturé niveau de stock élevé consommation stable quantité raisonnable entrepôt non saturé,ok
+Commande capacité fournisseur réduite de moitié ce trimestre sans produit standard délai fournisseur maîtrisé,risque
+Plan quantité raisonnable entrepôt non saturé quantité raisonnable entrepôt non saturé fournisseur confirmé commande passée dans les délais suite à panne équipement de production ligne arrêtée,ok
+Demande quantité raisonnable entrepôt non saturé transport disponible sans retard constaté malgré grève transporteur impossible de livrer à temps,ok
+Requête approvisionnement confirmé date de réception stable délai de livraison standard sans tension capacitaire capacité entrepôt disponible stock de sécurité respecté,ok
+Requête délais portuaires congestion douane incertaine saturation entrepôt capacité de stockage insuffisante,risque
+Ordre délai de livraison standard sans tension capacitaire quantité raisonnable entrepôt non saturé approvisionnement planifié sans alerte sans saturation entrepôt capacité de stockage insuffisante,ok
+Batch produit standard délai fournisseur maîtrisé fournisseur fiable historique de livraisons à l'heure commande urgente mais inventaire disponible,ok
+Ordre approvisionnement planifié sans alerte lead time court rupture improbable et fluctuation de change coûts en forte hausse,ok
+Ordre demande saisonnière anticipée avec prévision délai de livraison standard sans tension capacitaire,ok
+Plan commande urgente aucun fournisseur disponible fluctuation de change coûts en forte hausse panne équipement de production ligne arrêtée suite à demande saisonnière anticipée avec prévision,risque
+Commande fournisseur unique défaillance capacitaire signalée,risque
+Plan rupture securite niveau stock saturation entrepot capacite de stockage insuffisante retard de livraison critique penalites contractuelles rupture de stock probable delai fournisseur inconnu,risque
+Requête lead time allongé transport perturbé par grève matière première stratégique pénurie mondiale suite à délai de livraison standard sans tension capacitaire,risque
+Ordre fournisseur fiable historique de livraisons à l'heure niveau de stock élevé consommation stable rupture évitée grâce au stock de sécurité,ok
+Demande lead time allongé transport perturbé par grève demande en forte hausse sans stock disponible fluctuation de change coûts en forte hausse,risque
+Batch stock critique approvisionnement non confirmé délais portuaires congestion douane incertaine lead time allongé transport perturbé par grève et produit standard délai fournisseur maîtrisé,risque
+Requête retard de livraison critique pénalités contractuelles fluctuation de change coûts en forte hausse grève transporteur impossible de livrer à temps malgré rupture évitée grâce au stock de sécurité,risque
+Batch capacité entrepôt disponible stock de sécurité respecté et stock critique approvisionnement non confirmé,ok
+Requête demande en forte hausse sans stock disponible suite à approvisionnement confirmé date de réception stable,risque
+Batch niveau de stock élevé consommation stable suite à délais portuaires congestion douane incertaine,ok
+Commande lead time court rupture improbable niveau de stock élevé consommation stable produit standard délai fournisseur maîtrisé,ok
+Demande grève transporteur impossible de livrer à temps stock critique approvisionnement non confirmé retard de livraison critique pénalités contractuelles,risque
+Ordre délai de livraison standard sans tension capacitaire avec retard de livraison critique pénalités contractuelles,ok
+Requête stock de sécurité supérieur au besoin hebdomadaire quantité raisonnable entrepôt non saturé,ok
+Commande stock inférieur au seuil de sécurité rupture imminente rupture de stock probable délai fournisseur inconnu grève transporteur impossible de livrer à temps,risque
+Ordre delai livraison commande transport lead time court rupture improbable quantite raisonnable entrepot non sature commande urgente mais inventaire disponible mais demande reguliere niveau de stock correct,ok
+Batch delai livraison commande transport rupture evitee grace au stock de securite demande reguliere niveau de stock correct ensuite produit standard delai fournisseur maitrise,ok
+Batch panne équipement de production ligne arrêtée stock inférieur au seuil de sécurité rupture imminente,risque
+Requête stock inférieur au seuil de sécurité rupture imminente malgré stock suffisant fournisseur local délai court,risque
+Ordre stock critique approvisionnement non confirmé retard de livraison critique pénalités contractuelles,risque
+Demande fournisseur unique défaillance capacitaire signalée tension sur les délais fournisseur risque de rupture identifié,risque
+Plan approvisionnement planifié sans alerte délai de livraison standard sans tension capacitaire rupture évitée grâce au stock de sécurité malgré fournisseur unique défaillance capacitaire signalée,ok
+Plan lead time allongé transport perturbé par grève saturation entrepôt capacité de stockage insuffisante matière première stratégique pénurie mondiale avec approvisionnement confirmé date de réception stable,risque
+Demande transport disponible sans retard constaté commande urgente mais inventaire disponible stock suffisant fournisseur local délai court,ok
+Requête demande saisonnière anticipée avec prévision stock suffisant fournisseur local délai court,ok
+Demande transport disponible sans retard constaté capacité entrepôt disponible stock de sécurité respecté approvisionnement planifié sans alerte sans panne équipement de production ligne arrêtée,ok
+Commande rupture securite niveau stock lead time court rupture improbable produit standard delai fournisseur maitrise sauf que rupture evitee grace au stock de securite,ok
+Requête fournisseur fiable historique de livraisons à l'heure produit standard délai fournisseur maîtrisé approvisionnement planifié sans alerte et saturation entrepôt capacité de stockage insuffisante,ok
+Demande transport disponible sans retard constaté,ok
+Demande approvisionnement planifié sans alerte commande urgente mais inventaire disponible demande régulière niveau de stock correct et fluctuation de change coûts en forte hausse,ok
+Requête rupture de stock probable délai fournisseur inconnu saturation entrepôt capacité de stockage insuffisante suite à stock de sécurité supérieur au besoin hebdomadaire,risque
+Commande rupture de stock probable délai fournisseur inconnu stock critique approvisionnement non confirmé délais portuaires congestion douane incertaine,risque
+Plan demande prevision saisonnalite approvisionnement planifie sans alerte,ok
+Plan matière première stratégique pénurie mondiale malgré stock suffisant fournisseur local délai court,risque
+Commande demande régulière niveau de stock correct stock suffisant fournisseur local délai court,ok
+Requête délai de livraison standard sans tension capacitaire approvisionnement planifié sans alerte demande régulière niveau de stock correct,ok
+Requête demande en forte hausse sans stock disponible commande urgente aucun fournisseur disponible,risque
+Requête capacité fournisseur réduite de moitié ce trimestre stock critique approvisionnement non confirmé avec commande urgente mais inventaire disponible,risque
+Requête lead time court rupture improbable,ok
+Demande capacité entrepôt disponible stock de sécurité respecté fournisseur fiable historique de livraisons à l'heure approvisionnement planifié sans alerte,ok
+Ordre délais portuaires congestion douane incertaine panne équipement de production ligne arrêtée stock critique approvisionnement non confirmé,risque
+Plan stock suffisant fournisseur local délai court,ok
+Commande rupture securite niveau stock panne equipement de production ligne arretee lead time allonge transport perturbe par greve saturation entrepot capacite de stockage insuffisante,risque
+Demande delai livraison commande transport approvisionnement confirme date dereception stable,ok
+Demande demande prevision saisonnalite commande urgente mais inventaire disponible lead time court rupture improbable avant que demande saisonniere anticipee avec prevision,ok
+Plan rupture de stock probable délai fournisseur inconnu stock inférieur au seuil de sécurité rupture imminente,risque
+Plan grève transporteur impossible de livrer à temps délais portuaires congestion douane incertaine,risque
+Batch demande saisonnière anticipée avec prévision délai de livraison standard sans tension capacitaire,ok
+Commande capacité entrepôt disponible stock de sécurité respecté avec capacité fournisseur réduite de moitié ce trimestre,ok
+Demande rupture securite niveau stock produit obsolete risque demarquage eleve ensuite rupture de stock probable delai fournisseur inconnu,risque
+Batch matière première stratégique pénurie mondiale stock critique approvisionnement non confirmé et demande régulière niveau de stock correct,risque
+Ordre commande urgente aucun fournisseur disponible,risque
+Commande stock fournisseur entrepot quantite raisonnable entrepot non sature rupture evitee grace au stock de securite niveau de stock eleve consommation stable puis niveau de stock eleve consommation stable,ok
+Requête grève transporteur impossible de livrer à temps matière première stratégique pénurie mondiale avec stock suffisant fournisseur local délai court,risque
+Demande saturation entrepôt capacité de stockage insuffisante demande en forte hausse sans stock disponible stock critique approvisionnement non confirmé malgré commande urgente mais inventaire disponible,risque
+Plan tension sur les délais fournisseur risque de rupture identifié et rupture évitée grâce au stock de sécurité,risque
+Batch stock inférieur au seuil de sécurité rupture imminente stock inférieur au seuil de sécurité rupture imminente tension sur les délais fournisseur risque de rupture identifié avec niveau de stock élevé consommation stable,risque
+Requête fournisseur unique défaillance capacitaire signalée grève transporteur impossible de livrer à temps avec approvisionnement planifié sans alerte,risque
+Ordre fluctuation de change coûts en forte hausse stock inférieur au seuil de sécurité rupture imminente,risque
+Demande commande urgente aucun fournisseur disponible matière première stratégique pénurie mondiale panne équipement de production ligne arrêtée,risque
+Batch capacite production fournisseur demande saisonniere anticipee avec prevision quantite raisonnable entrepot non sature demande reguliere niveau de stock correct,ok
+Commande délais portuaires congestion douane incertaine capacité fournisseur réduite de moitié ce trimestre demande en forte hausse sans stock disponible,risque
+Plan capacité entrepôt disponible stock de sécurité respecté niveau de stock élevé consommation stable quantité raisonnable entrepôt non saturé,ok
+Plan capacité fournisseur réduite de moitié ce trimestre demande en forte hausse sans stock disponible,risque
+Batch retard de livraison critique pénalités contractuelles,risque
+Ordre commande urgente aucun fournisseur disponible suite à délai de livraison standard sans tension capacitaire,risque
+Requête stock inférieur au seuil de sécurité rupture imminente stock inférieur au seuil de sécurité rupture imminente stock inférieur au seuil de sécurité rupture imminente malgré quantité raisonnable entrepôt non saturé,risque
+Commande lead time allongé transport perturbé par grève matière première stratégique pénurie mondiale,risque
+Plan stock de sécurité supérieur au besoin hebdomadaire stock suffisant fournisseur local délai court,ok
+Demande lead time allongé transport perturbé par grève malgré fournisseur confirmé commande passée dans les délais,risque
+Demande capacité fournisseur réduite de moitié ce trimestre commande urgente aucun fournisseur disponible suite à demande saisonnière anticipée avec prévision,risque
+Demande commande urgente aucun fournisseur disponible commande urgente aucun fournisseur disponible matière première stratégique pénurie mondiale suite à stock suffisant fournisseur local délai court,risque
+Demande commande urgente aucun fournisseur disponible fournisseur unique défaillance capacitaire signalée retard de livraison critique pénalités contractuelles,risque
+Plan niveau de stock élevé consommation stable suite à commande urgente aucun fournisseur disponible,ok
+Ordre délai de livraison standard sans tension capacitaire lead time court rupture improbable,ok
+Demande tension sur les délais fournisseur risque de rupture identifié stock critique approvisionnement non confirmé capacité fournisseur réduite de moitié ce trimestre,risque
+Ordre rupture évitée grâce au stock de sécurité quantité raisonnable entrepôt non saturé fournisseur confirmé commande passée dans les délais,ok
+Batch délai de livraison standard sans tension capacitaire sans stock critique approvisionnement non confirmé,ok
+Ordre rupture de stock probable délai fournisseur inconnu tension sur les délais fournisseur risque de rupture identifié lead time allongé transport perturbé par grève,risque
+Ordre délai de livraison standard sans tension capacitaire commande urgente mais inventaire disponible,ok
+Demande fournisseur fiable historique de livraisons à l'heure niveau de stock élevé consommation stable malgré stock critique approvisionnement non confirmé,ok
+Batch quantité raisonnable entrepôt non saturé capacité entrepôt disponible stock de sécurité respecté transport disponible sans retard constaté,ok
+Commande demande saisonnière anticipée avec prévision délai de livraison standard sans tension capacitaire lead time court rupture improbable suite à stock inférieur au seuil de sécurité rupture imminente,ok
+Ordre approvisionnement planifié sans alerte lead time court rupture improbable,ok
+Batch rupture de stock probable délai fournisseur inconnu,risque
+Plan stock critique approvisionnement non confirmé fournisseur unique défaillance capacitaire signalée délais portuaires congestion douane incertaine,risque
+Commande fluctuation de change coûts en forte hausse panne équipement de production ligne arrêtée,risque
+Plan approvisionnement planifié sans alerte fournisseur confirmé commande passée dans les délais demande régulière niveau de stock correct avec retard de livraison critique pénalités contractuelles,ok
+Demande lead time inventaire requete commande urgente aucun fournisseur disponible,risque
+Demande stock critique approvisionnement non confirmé délais portuaires congestion douane incertaine et stock de sécurité supérieur au besoin hebdomadaire,risque
+Demande fournisseur fiable historique de livraisons à l'heure fournisseur confirmé commande passée dans les délais,ok
+Batch fournisseur unique défaillance capacitaire signalée rupture de stock probable délai fournisseur inconnu stock critique approvisionnement non confirmé,risque
+Requête rupture de stock probable délai fournisseur inconnu capacité fournisseur réduite de moitié ce trimestre,risque
+Requête stock inférieur au seuil de sécurité rupture imminente rupture de stock probable délai fournisseur inconnu suite à transport disponible sans retard constaté,risque
+Demande demande régulière niveau de stock correct approvisionnement confirmé date de réception stable délai de livraison standard sans tension capacitaire suite à panne équipement de production ligne arrêtée,ok
+Batch fournisseur fiable historique de livraisons à l'heure stock suffisant fournisseur local délai court fournisseur confirmé commande passée dans les délais sans stock inférieur au seuil de sécurité rupture imminente,ok
+Batch stock de sécurité supérieur au besoin hebdomadaire avec commande urgente aucun fournisseur disponible,ok
+Plan transport disponible sans retard constaté approvisionnement planifié sans alerte produit standard délai fournisseur maîtrisé,ok
+Commande fournisseur fiable historique de livraisons à l'heure approvisionnement confirmé date de réception stable fournisseur confirmé commande passée dans les délais,ok
+Ordre approvisionnement confirmé date de réception stable commande urgente mais inventaire disponible suite à matière première stratégique pénurie mondiale,ok
+Commande delai livraison commande transport lead time allonge transport perturbe par greve produit obsolete risque demarquage eleve,risque
+Demande demande en forte hausse sans stock disponible stock inférieur au seuil de sécurité rupture imminente demande en forte hausse sans stock disponible,risque
+Batch tension sur les délais fournisseur risque de rupture identifié demande en forte hausse sans stock disponible fluctuation de change coûts en forte hausse,risque
+Batch stock fournisseur entrepot grève transporteur impossible de livrer a temps sauf que retard de livraison critique penalites contractuelles,risque
+Requête approvisionnement planifié sans alerte,ok
+Ordre approvisionnement confirmé date de réception stable rupture évitée grâce au stock de sécurité,ok
+Batch approvisionnement confirmé date de réception stable lead time court rupture improbable,ok
+Batch stock de sécurité supérieur au besoin hebdomadaire approvisionnement confirmé date de réception stable,ok
+Requête produit standard délai fournisseur maîtrisé commande urgente mais inventaire disponible sans stock inférieur au seuil de sécurité rupture imminente,ok
+Plan lead time allongé transport perturbé par grève stock inférieur au seuil de sécurité rupture imminente délais portuaires congestion douane incertaine,risque
+Batch rupture securite niveau stock fluctuation dechange couts en forte hausse matiere premiere strategique penurie mondiale saturation entrepot capacite de stockage insuffisante,risque
+Plan demande régulière niveau de stock correct avec stock critique approvisionnement non confirmé,ok
+Demande approvisionnement confirmé date de réception stable niveau de stock élevé consommation stable demande régulière niveau de stock correct,ok
+Demande rupture de stock probable délai fournisseur inconnu fournisseur unique défaillance capacitaire signalée,risque
+Commande stock de sécurité supérieur au besoin hebdomadaire délai de livraison standard sans tension capacitaire quantité raisonnable entrepôt non saturé sans matière première stratégique pénurie mondiale,ok
+Demande fournisseur fiable historique de livraisons à l'heure fournisseur confirmé commande passée dans les délais fournisseur confirmé commande passée dans les délais,ok
+Batch quantité raisonnable entrepôt non saturé fournisseur confirmé commande passée dans les délais transport disponible sans retard constaté,ok
+Requête lead time court rupture improbable niveau de stock élevé consommation stable malgré lead time allongé transport perturbé par grève,ok
+Requête capacité fournisseur réduite de moitié ce trimestre fournisseur unique défaillance capacitaire signalée sans approvisionnement confirmé date de réception stable,risque
+Plan stock critique approvisionnement non confirmé capacité fournisseur réduite de moitié ce trimestre suite à délai de livraison standard sans tension capacitaire,risque
+Plan stock suffisant fournisseur local délai court demande régulière niveau de stock correct lead time court rupture improbable,ok
+Batch transport disponible sans retard constaté,ok
+Requête niveau de stock élevé consommation stable,ok
+Batch retard de livraison critique pénalités contractuelles rupture de stock probable délai fournisseur inconnu,risque
+Ordre fournisseur unique défaillance capacitaire signalée commande urgente aucun fournisseur disponible,risque
+Ordre rupture de stock probable délai fournisseur inconnu panne équipement de production ligne arrêtée et approvisionnement planifié sans alerte,risque
+Plan fournisseur unique défaillance capacitaire signalée rupture de stock probable délai fournisseur inconnu tension sur les délais fournisseur risque de rupture identifié,risque
+Commande lead time court rupture improbable demande régulière niveau de stock correct,ok
+Commande approvisionnement confirmé date de réception stable produit standard délai fournisseur maîtrisé,ok
+Commande matière première stratégique pénurie mondiale lead time allongé transport perturbé par grève,risque
+Demande demande en forte hausse sans stock disponible lead time allongé transport perturbé par grève,risque
+Requête matière première stratégique pénurie mondiale stock critique approvisionnement non confirmé demande en forte hausse sans stock disponible,risque
+Demande demande prevision saisonnalite panne equipement de production ligne arretee,risque
+Ordre demande en forte hausse sans stock disponible panne équipement de production ligne arrêtée stock critique approvisionnement non confirmé,risque
+Ordre matière première stratégique pénurie mondiale délais portuaires congestion douane incertaine rupture de stock probable délai fournisseur inconnu,risque
+Batch fournisseur unique défaillance capacitaire signalée lead time allongé transport perturbé par grève,risque
+Batch approvisionnement planifié sans alerte délai de livraison standard sans tension capacitaire,ok
+Batch produit standard délai fournisseur maîtrisé demande saisonnière anticipée avec prévision avec panne équipement de production ligne arrêtée,ok
+Batch fournisseur unique défaillance capacitaire signalée capacité fournisseur réduite de moitié ce trimestre,risque
+Batch commande urgente aucun fournisseur disponible demande en forte hausse sans stock disponible et fournisseur confirmé commande passée dans les délais,risque
+Requête stock suffisant fournisseur local délai court,ok
+Demande retard de livraison critique pénalités contractuelles fluctuation de change coûts en forte hausse,risque
+Requête commande urgente aucun fournisseur disponible fournisseur unique défaillance capacitaire signalée,risque
+Batch stock inférieur au seuil de sécurité rupture imminente délais portuaires congestion douane incertaine fluctuation de change coûts en forte hausse,risque
+Requête fluctuation de change coûts en forte hausse,risque
+Ordre delai livraison commande transport fournisseur unique defaillance capacitaire signalee grève transporteur impossible de livrer a temps lead time allonge transport perturbe par greve sauf que grève transporteur impossible de livrer a temps,risque
+Commande saturation entrepôt capacité de stockage insuffisante avec rupture évitée grâce au stock de sécurité,risque
+Ordre capacite production fournisseur approvisionnement planifie sans alerte,ok
+Demande fournisseur fiable historique de livraisons à l'heure rupture évitée grâce au stock de sécurité,ok
+Demande stock de sécurité supérieur au besoin hebdomadaire commande urgente mais inventaire disponible,ok
+Batch delai livraison commande transport panne equipement de production ligne arretee saturation entrepot capacite de stockage insuffisante,risque
+Requête délais portuaires congestion douane incertaine capacité fournisseur réduite de moitié ce trimestre commande urgente aucun fournisseur disponible,risque
+Commande demande saisonnière anticipée avec prévision approvisionnement confirmé date de réception stable demande saisonnière anticipée avec prévision,ok
+Commande stock de sécurité supérieur au besoin hebdomadaire produit standard délai fournisseur maîtrisé malgré grève transporteur impossible de livrer à temps,ok
+Batch fournisseur unique défaillance capacitaire signalée fluctuation de change coûts en forte hausse délais portuaires congestion douane incertaine malgré produit standard délai fournisseur maîtrisé,risque
+Commande stock inférieur au seuil de sécurité rupture imminente capacité fournisseur réduite de moitié ce trimestre capacité fournisseur réduite de moitié ce trimestre suite à niveau de stock élevé consommation stable,risque
+Requete rupture securite niveau stock panne equipement de production ligne arretee fluctuation dechange couts en forte hausse produit obsolete risque demarquage eleve,risque
+Ordre stock suffisant fournisseur local délai court demande saisonnière anticipée avec prévision niveau de stock élevé consommation stable,ok
+Requete stock fournisseur entrepot produit obsolete risque demarquage eleve,risque
+Plan grève transporteur impossible de livrer à temps,risque
+Commande delai livraison commande transport fournisseur fiable historique de livraisons a lheure approvisionnement confirme date dereception stable,ok
+Demande délais portuaires congestion douane incertaine demande en forte hausse sans stock disponible panne équipement de production ligne arrêtée,risque
+Ordre stock suffisant fournisseur local délai court demande régulière niveau de stock correct,ok
+Ordre fournisseur fiable historique de livraisons à l'heure niveau de stock élevé consommation stable,ok
+Batch lead time court rupture improbable commande urgente mais inventaire disponible demande régulière niveau de stock correct sans tension sur les délais fournisseur risque de rupture identifié,ok
+Commande lead time court rupture improbable commande urgente mais inventaire disponible demande saisonnière anticipée avec prévision et matière première stratégique pénurie mondiale,ok
+Commande rupture évitée grâce au stock de sécurité délai de livraison standard sans tension capacitaire stock suffisant fournisseur local délai court malgré retard de livraison critique pénalités contractuelles,ok
+Ordre niveau de stock élevé consommation stable stock suffisant fournisseur local délai court stock suffisant fournisseur local délai court,ok
+Ordre capacité fournisseur réduite de moitié ce trimestre suite à stock suffisant fournisseur local délai court,risque
+Plan délai de livraison standard sans tension capacitaire approvisionnement planifié sans alerte malgré saturation entrepôt capacité de stockage insuffisante,ok
+Commande capacite production fournisseur demande reguliere niveau de stock correct stock suffisant fournisseur local delai court sauf que demande reguliere niveau de stock correct,ok
+Plan matière première stratégique pénurie mondiale fluctuation de change coûts en forte hausse,risque
+Batch retard de livraison critique pénalités contractuelles sans capacité entrepôt disponible stock de sécurité respecté,risque
+Commande quantité raisonnable entrepôt non saturé niveau de stock élevé consommation stable quantité raisonnable entrepôt non saturé,ok
+Commande approvisionnement planifié sans alerte et retard de livraison critique pénalités contractuelles,ok
+Ordre fournisseur fiable historique de livraisons à l'heure demande régulière niveau de stock correct,ok
+Demande fournisseur confirmé commande passée dans les délais sans commande urgente aucun fournisseur disponible,ok
+Batch capacité entrepôt disponible stock de sécurité respecté stock suffisant fournisseur local délai court demande saisonnière anticipée avec prévision,ok
+Plan approvisionnement confirmé date de réception stable rupture évitée grâce au stock de sécurité approvisionnement confirmé date de réception stable,ok
+Ordre transport disponible sans retard constaté malgré tension sur les délais fournisseur risque de rupture identifié,ok
+Commande tension sur les délais fournisseur risque de rupture identifié fluctuation de change coûts en forte hausse,risque
+Ordre délais portuaires congestion douane incertaine grève transporteur impossible de livrer à temps,risque
+Plan fluctuation de change coûts en forte hausse lead time allongé transport perturbé par grève,risque
+Plan fournisseur confirmé commande passée dans les délais approvisionnement confirmé date de réception stable lead time court rupture improbable,ok
+Ordre stock suffisant fournisseur local délai court niveau de stock élevé consommation stable lead time court rupture improbable malgré rupture de stock probable délai fournisseur inconnu,ok
+Demande commande urgente mais inventaire disponible approvisionnement confirmé date de réception stable sans lead time allongé transport perturbé par grève,ok
+Ordre commande urgente aucun fournisseur disponible grève transporteur impossible de livrer à temps commande urgente aucun fournisseur disponible malgré demande régulière niveau de stock correct,risque
+Plan fournisseur unique défaillance capacitaire signalée saturation entrepôt capacité de stockage insuffisante,risque
+Demande demande en forte hausse sans stock disponible,risque
+Commande panne équipement de production ligne arrêtée rupture de stock probable délai fournisseur inconnu commande urgente aucun fournisseur disponible malgré capacité entrepôt disponible stock de sécurité respecté,risque
+Batch rupture évitée grâce au stock de sécurité stock de sécurité supérieur au besoin hebdomadaire malgré retard de livraison critique pénalités contractuelles,ok
+Plan approvisionnement confirmé date de réception stable délai de livraison standard sans tension capacitaire,ok
+Plan delai livraison commande transport stock suffisant fournisseur local delai court sauf que transport disponible sans retard constate,ok
+Demande saturation entrepôt capacité de stockage insuffisante tension sur les délais fournisseur risque de rupture identifié panne équipement de production ligne arrêtée,risque
+Batch demande saisonnière anticipée avec prévision lead time court rupture improbable,ok
+Requête stock inférieur au seuil de sécurité rupture imminente délais portuaires congestion douane incertaine,risque
+Requête stock inférieur au seuil de sécurité rupture imminente rupture de stock probable délai fournisseur inconnu malgré transport disponible sans retard constaté,risque
+Commande tension sur les délais fournisseur risque de rupture identifié sans niveau de stock élevé consommation stable,risque
+Ordre stock inférieur au seuil de sécurité rupture imminente lead time allongé transport perturbé par grève fournisseur unique défaillance capacitaire signalée,risque
+Plan quantité raisonnable entrepôt non saturé demande régulière niveau de stock correct,ok
+Demande stock suffisant fournisseur local délai court avec rupture de stock probable délai fournisseur inconnu,ok
+Plan fluctuation de change coûts en forte hausse panne équipement de production ligne arrêtée commande urgente aucun fournisseur disponible,risque
+Plan produit standard délai fournisseur maîtrisé stock de sécurité supérieur au besoin hebdomadaire et commande urgente aucun fournisseur disponible,ok
+Batch demande prevision saisonnalite transport disponible sans retard constate rupture evitee grace au stock de securite quantite raisonnable entrepot non sature,ok
+Plan stock critique approvisionnement non confirmé sans lead time court rupture improbable,risque
+Ordre lead time inventaire requete delai de livraison standard sans tension capacitaire approvisionnement planifie sans alerte finalement lead time court rupture improbable,ok
+Ordre quantité raisonnable entrepôt non saturé approvisionnement confirmé date de réception stable fournisseur fiable historique de livraisons à l'heure,ok
+Ordre stock critique approvisionnement non confirmé avec délai de livraison standard sans tension capacitaire,risque
+Ordre demande en forte hausse sans stock disponible délais portuaires congestion douane incertaine tension sur les délais fournisseur risque de rupture identifié,risque
+Batch stock de sécurité supérieur au besoin hebdomadaire demande régulière niveau de stock correct,ok
+Plan retard de livraison critique pénalités contractuelles fournisseur unique défaillance capacitaire signalée matière première stratégique pénurie mondiale,risque
+Requête produit standard délai fournisseur maîtrisé commande urgente mais inventaire disponible,ok
+Ordre saturation entrepôt capacité de stockage insuffisante lead time allongé transport perturbé par grève tension sur les délais fournisseur risque de rupture identifié,risque
+Ordre lead time inventaire requete rupture de stock probable delai fournisseur inconnu commande urgente aucun fournisseur disponible,risque
+Plan produit standard délai fournisseur maîtrisé malgré rupture de stock probable délai fournisseur inconnu,ok
+Requête commande urgente mais inventaire disponible,ok
+Demande fournisseur fiable historique de livraisons à l'heure fournisseur confirmé commande passée dans les délais approvisionnement confirmé date de réception stable,ok
+Batch délais portuaires congestion douane incertaine tension sur les délais fournisseur risque de rupture identifié,risque
+Ordre lead time allongé transport perturbé par grève stock critique approvisionnement non confirmé fluctuation de change coûts en forte hausse,risque
+Commande lead time allongé transport perturbé par grève saturation entrepôt capacité de stockage insuffisante demande en forte hausse sans stock disponible,risque
+Demande stock inférieur au seuil de sécurité rupture imminente tension sur les délais fournisseur risque de rupture identifié fournisseur unique défaillance capacitaire signalée,risque
+Commande delai livraison commande transport produit standard delai fournisseur maitrise approvisionnement planifie sans alerte stock de securite superieur au besoin hebdomadaire,ok
+Requête stock suffisant fournisseur local délai court stock suffisant fournisseur local délai court approvisionnement planifié sans alerte,ok
+Demande stock critique approvisionnement non confirmé,risque
+Commande fournisseur unique défaillance capacitaire signalée retard de livraison critique pénalités contractuelles lead time allongé transport perturbé par grève suite à délai de livraison standard sans tension capacitaire,risque
+Requête matière première stratégique pénurie mondiale malgré approvisionnement confirmé date de réception stable,risque
+Demande stock de sécurité supérieur au besoin hebdomadaire fournisseur confirmé commande passée dans les délais demande saisonnière anticipée avec prévision,ok
+Plan commande urgente aucun fournisseur disponible matière première stratégique pénurie mondiale,risque
+Plan stock inférieur au seuil de sécurité rupture imminente rupture de stock probable délai fournisseur inconnu saturation entrepôt capacité de stockage insuffisante sans transport disponible sans retard constaté,risque
+Commande demande prevision saisonnalite niveau de stock eleve consommation stable demande saisonniere anticipee avec prevision stock de securite superieur au besoin hebdomadaire,ok
+Ordre délais portuaires congestion douane incertaine fluctuation de change coûts en forte hausse,risque
+Ordre quantité raisonnable entrepôt non saturé lead time court rupture improbable,ok
+Batch commande urgente aucun fournisseur disponible rupture de stock probable délai fournisseur inconnu stock inférieur au seuil de sécurité rupture imminente,risque
+Requête lead time court rupture improbable demande régulière niveau de stock correct lead time court rupture improbable avec matière première stratégique pénurie mondiale,ok
+Ordre commande urgente mais inventaire disponible stock suffisant fournisseur local délai court stock suffisant fournisseur local délai court,ok
+Requête tension sur les délais fournisseur risque de rupture identifié avec niveau de stock élevé consommation stable,risque
+Plan saturation entrepôt capacité de stockage insuffisante retard de livraison critique pénalités contractuelles demande en forte hausse sans stock disponible malgré niveau de stock élevé consommation stable,risque
+Ordre fournisseur unique défaillance capacitaire signalée lead time allongé transport perturbé par grève,risque
+Plan delai livraison commande transport lead time court rupture improbable quantite raisonnable entrepot non sature niveau de stock eleve consommation stable,ok
+Batch commande urgente mais inventaire disponible fournisseur confirmé commande passée dans les délais délai de livraison standard sans tension capacitaire,ok
+Requête saturation entrepôt capacité de stockage insuffisante sans approvisionnement confirmé date de réception stable,risque
+Plan transport disponible sans retard constaté demande saisonnière anticipée avec prévision stock suffisant fournisseur local délai court suite à matière première stratégique pénurie mondiale,ok
+Commande demande en forte hausse sans stock disponible rupture de stock probable délai fournisseur inconnu malgré demande saisonnière anticipée avec prévision,risque
+Batch lead time allongé transport perturbé par grève fluctuation de change coûts en forte hausse,risque
+Demande lead time inventaire requete saturation entrepot capacite de stockage insuffisante mais stock inferieur au seuil de securite rupture imminente,risque
+Ordre produit standard délai fournisseur maîtrisé lead time court rupture improbable transport disponible sans retard constaté,ok
+Ordre rupture securite niveau stock capacite fournisseur reduite de moitie ce trimestre sauf que capacite fournisseur reduite de moitie ce trimestre,risque
+Demande quantité raisonnable entrepôt non saturé capacité entrepôt disponible stock de sécurité respecté délai de livraison standard sans tension capacitaire avec lead time allongé transport perturbé par grève,ok
+Batch capacité fournisseur réduite de moitié ce trimestre demande en forte hausse sans stock disponible matière première stratégique pénurie mondiale et délai de livraison standard sans tension capacitaire,risque
+Plan capacité fournisseur réduite de moitié ce trimestre stock inférieur au seuil de sécurité rupture imminente retard de livraison critique pénalités contractuelles avec lead time court rupture improbable,risque
+Ordre fournisseur fiable historique de livraisons à l'heure fournisseur confirmé commande passée dans les délais délai de livraison standard sans tension capacitaire,ok
+Ordre delai livraison commande transport panne equipement de production ligne arretee produit obsolete risque demarquage eleve mais grève transporteur impossible de livrer a temps,risque
+Plan capacité entrepôt disponible stock de sécurité respecté capacité entrepôt disponible stock de sécurité respecté capacité entrepôt disponible stock de sécurité respecté avec grève transporteur impossible de livrer à temps,ok
+Ordre quantité raisonnable entrepôt non saturé approvisionnement confirmé date de réception stable,ok
+Batch tension sur les délais fournisseur risque de rupture identifié et produit standard délai fournisseur maîtrisé,risque
+Ordre niveau de stock élevé consommation stable lead time court rupture improbable,ok
+Batch fournisseur fiable historique de livraisons à l'heure stock de sécurité supérieur au besoin hebdomadaire commande urgente mais inventaire disponible,ok
+Commande fournisseur unique défaillance capacitaire signalée commande urgente aucun fournisseur disponible stock critique approvisionnement non confirmé malgré demande régulière niveau de stock correct,risque
+Plan lead time allongé transport perturbé par grève stock critique approvisionnement non confirmé matière première stratégique pénurie mondiale,risque
+Demande transport disponible sans retard constaté approvisionnement confirmé date de réception stable produit standard délai fournisseur maîtrisé,ok
+Ordre délai de livraison standard sans tension capacitaire approvisionnement confirmé date de réception stable suite à lead time allongé transport perturbé par grève,ok
+Demande approvisionnement confirmé date de réception stable commande urgente mais inventaire disponible demande saisonnière anticipée avec prévision,ok
+Plan délai de livraison standard sans tension capacitaire demande régulière niveau de stock correct fournisseur fiable historique de livraisons à l'heure avec matière première stratégique pénurie mondiale,ok
+Commande produit standard délai fournisseur maîtrisé rupture évitée grâce au stock de sécurité capacité entrepôt disponible stock de sécurité respecté,ok
+Commande délai de livraison standard sans tension capacitaire niveau de stock élevé consommation stable approvisionnement planifié sans alerte,ok
+Ordre lead time court rupture improbable fournisseur confirmé commande passée dans les délais et saturation entrepôt capacité de stockage insuffisante,ok
+Requête lead time allongé transport perturbé par grève délais portuaires congestion douane incertaine délais portuaires congestion douane incertaine malgré fournisseur fiable historique de livraisons à l'heure,risque
+Commande fournisseur confirmé commande passée dans les délais capacité entrepôt disponible stock de sécurité respecté niveau de stock élevé consommation stable,ok
+Batch capacite production fournisseur demande en forte hausse sans stock disponible stock inferieur au seuil de securite rupture imminente matiere premiere strategique penurie mondiale,risque
+Ordre stock critique approvisionnement non confirmé tension sur les délais fournisseur risque de rupture identifié stock inférieur au seuil de sécurité rupture imminente et quantité raisonnable entrepôt non saturé,risque
+Ordre rupture évitée grâce au stock de sécurité stock suffisant fournisseur local délai court niveau de stock élevé consommation stable,ok
+Ordre retard de livraison critique pénalités contractuelles et demande saisonnière anticipée avec prévision,risque
+Commande approvisionnement confirmé date de réception stable avec commande urgente aucun fournisseur disponible,ok
+Demande tension sur les délais fournisseur risque de rupture identifié tension sur les délais fournisseur risque de rupture identifié et stock de sécurité supérieur au besoin hebdomadaire,risque
+Requête délais portuaires congestion douane incertaine stock critique approvisionnement non confirmé suite à demande régulière niveau de stock correct,risque
+Batch tension sur les délais fournisseur risque de rupture identifié matière première stratégique pénurie mondiale malgré produit standard délai fournisseur maîtrisé,risque
+Demande délais portuaires congestion douane incertaine,risque
+Ordre fluctuation de change coûts en forte hausse capacité fournisseur réduite de moitié ce trimestre sans transport disponible sans retard constaté,risque
+Ordre commande urgente aucun fournisseur disponible saturation entrepôt capacité de stockage insuffisante sans demande saisonnière anticipée avec prévision,risque
+Commande lead time allongé transport perturbé par grève lead time allongé transport perturbé par grève saturation entrepôt capacité de stockage insuffisante sans quantité raisonnable entrepôt non saturé,risque
+Commande saturation entrepôt capacité de stockage insuffisante commande urgente aucun fournisseur disponible fournisseur unique défaillance capacitaire signalée malgré délai de livraison standard sans tension capacitaire,risque
+Ordre rupture évitée grâce au stock de sécurité avec retard de livraison critique pénalités contractuelles,ok
+Batch stock inférieur au seuil de sécurité rupture imminente saturation entrepôt capacité de stockage insuffisante fournisseur unique défaillance capacitaire signalée,risque
+Commande fournisseur unique défaillance capacitaire signalée lead time allongé transport perturbé par grève,risque
+Batch capacité entrepôt disponible stock de sécurité respecté approvisionnement planifié sans alerte stock de sécurité supérieur au besoin hebdomadaire et matière première stratégique pénurie mondiale,ok
+Commande niveau de stock élevé consommation stable,ok
+Ordre demande en forte hausse sans stock disponible tension sur les délais fournisseur risque de rupture identifié,risque
+Plan rupture de stock probable délai fournisseur inconnu saturation entrepôt capacité de stockage insuffisante avec lead time court rupture improbable,risque
+Batch capacité fournisseur réduite de moitié ce trimestre stock inférieur au seuil de sécurité rupture imminente stock critique approvisionnement non confirmé,risque
+Demande fournisseur confirmé commande passée dans les délais lead time court rupture improbable fournisseur confirmé commande passée dans les délais,ok
+Commande rupture évitée grâce au stock de sécurité demande régulière niveau de stock correct,ok
+Commande fluctuation de change coûts en forte hausse stock inférieur au seuil de sécurité rupture imminente suite à délai de livraison standard sans tension capacitaire,risque
+Batch fournisseur fiable historique de livraisons à l'heure niveau de stock élevé consommation stable stock suffisant fournisseur local délai court,ok
+Demande grève transporteur impossible de livrer à temps panne équipement de production ligne arrêtée fournisseur unique défaillance capacitaire signalée,risque
+Ordre fournisseur unique défaillance capacitaire signalée demande en forte hausse sans stock disponible malgré stock de sécurité supérieur au besoin hebdomadaire,risque
+Plan capacité entrepôt disponible stock de sécurité respecté transport disponible sans retard constaté lead time court rupture improbable,ok
+Batch lead time court rupture improbable rupture évitée grâce au stock de sécurité fournisseur fiable historique de livraisons à l'heure avec commande urgente aucun fournisseur disponible,ok
+Demande retard de livraison critique pénalités contractuelles fournisseur unique défaillance capacitaire signalée tension sur les délais fournisseur risque de rupture identifié,risque
+Ordre matière première stratégique pénurie mondiale saturation entrepôt capacité de stockage insuffisante avec approvisionnement planifié sans alerte,risque
+Plan rupture securite niveau stock panne equipement de production ligne arretee puis capacite fournisseur reduite de moitie ce trimestre,risque
+Commande fluctuation de change coûts en forte hausse demande en forte hausse sans stock disponible saturation entrepôt capacité de stockage insuffisante,risque
+Batch fournisseur unique défaillance capacitaire signalée délais portuaires congestion douane incertaine stock critique approvisionnement non confirmé,risque
+Commande commande urgente aucun fournisseur disponible délais portuaires congestion douane incertaine sans commande urgente mais inventaire disponible,risque
+Plan transport disponible sans retard constaté sans délais portuaires congestion douane incertaine,ok
+Commande quantité raisonnable entrepôt non saturé et stock critique approvisionnement non confirmé,ok
+Plan grève transporteur impossible de livrer à temps retard de livraison critique pénalités contractuelles retard de livraison critique pénalités contractuelles sans capacité entrepôt disponible stock de sécurité respecté,risque
+Batch fournisseur fiable historique de livraisons à l'heure approvisionnement confirmé date de réception stable,ok
+Plan rupture évitée grâce au stock de sécurité fournisseur confirmé commande passée dans les délais approvisionnement confirmé date de réception stable,ok
+Requête transport disponible sans retard constaté,ok
+Batch délai de livraison standard sans tension capacitaire sans matière première stratégique pénurie mondiale,ok
+Demande délai de livraison standard sans tension capacitaire quantité raisonnable entrepôt non saturé lead time court rupture improbable avec grève transporteur impossible de livrer à temps,ok
+Batch approvisionnement planifié sans alerte délai de livraison standard sans tension capacitaire fournisseur confirmé commande passée dans les délais,ok
+Plan approvisionnement planifié sans alerte suite à rupture de stock probable délai fournisseur inconnu,ok
+Plan lead time inventaire requete demande saisonniere anticipee avec prevision ensuite demande saisonniere anticipee avec prevision,ok
+Batch grève transporteur impossible de livrer à temps lead time allongé transport perturbé par grève retard de livraison critique pénalités contractuelles avec commande urgente mais inventaire disponible,risque
+Commande transport disponible sans retard constaté demande régulière niveau de stock correct,ok
+Commande commande urgente mais inventaire disponible quantité raisonnable entrepôt non saturé délai de livraison standard sans tension capacitaire,ok
+Demande délai de livraison standard sans tension capacitaire capacité entrepôt disponible stock de sécurité respecté,ok
+Demande grève transporteur impossible de livrer à temps capacité fournisseur réduite de moitié ce trimestre,risque
+Ordre capacite production fournisseur demande saisonniere anticipee avec prevision stock suffisant fournisseur local delai court transport disponible sans retard constate,ok
+Commande panne équipement de production ligne arrêtée sans transport disponible sans retard constaté,risque
+Plan rupture évitée grâce au stock de sécurité approvisionnement planifié sans alerte sans saturation entrepôt capacité de stockage insuffisante,ok
+Plan capacité entrepôt disponible stock de sécurité respecté lead time court rupture improbable suite à capacité fournisseur réduite de moitié ce trimestre,ok
+Requête approvisionnement confirmé date de réception stable fournisseur fiable historique de livraisons à l'heure fournisseur fiable historique de livraisons à l'heure,ok
+Commande produit standard délai fournisseur maîtrisé quantité raisonnable entrepôt non saturé commande urgente mais inventaire disponible,ok
+Requête lead time allongé transport perturbé par grève capacité fournisseur réduite de moitié ce trimestre lead time allongé transport perturbé par grève sans délai de livraison standard sans tension capacitaire,risque
+Batch délais portuaires congestion douane incertaine fluctuation de change coûts en forte hausse stock critique approvisionnement non confirmé sans quantité raisonnable entrepôt non saturé,risque
+Commande fournisseur fiable historique de livraisons à l'heure avec grève transporteur impossible de livrer à temps,ok
+Batch rupture securite niveau stock demande en forte hausse sans stock disponible,risque
+Requête délais portuaires congestion douane incertaine commande urgente aucun fournisseur disponible tension sur les délais fournisseur risque de rupture identifié,risque
+Requête saturation entrepôt capacité de stockage insuffisante demande en forte hausse sans stock disponible panne équipement de production ligne arrêtée,risque
+Plan produit standard délai fournisseur maîtrisé demande régulière niveau de stock correct délai de livraison standard sans tension capacitaire,ok
+Requête rupture de stock probable délai fournisseur inconnu capacité fournisseur réduite de moitié ce trimestre tension sur les délais fournisseur risque de rupture identifié malgré approvisionnement confirmé date de réception stable,risque
+Requête lead time court rupture improbable transport disponible sans retard constaté,ok
+Demande demande en forte hausse sans stock disponible saturation entrepôt capacité de stockage insuffisante rupture de stock probable délai fournisseur inconnu,risque
+Ordre demande régulière niveau de stock correct avec stock critique approvisionnement non confirmé,ok
+Batch fournisseur confirmé commande passée dans les délais approvisionnement confirmé date de réception stable fournisseur confirmé commande passée dans les délais sans matière première stratégique pénurie mondiale,ok
+Batch stock suffisant fournisseur local délai court capacité entrepôt disponible stock de sécurité respecté,ok
+Plan transport disponible sans retard constaté transport disponible sans retard constaté,ok
+Batch stock critique approvisionnement non confirmé capacité fournisseur réduite de moitié ce trimestre sans lead time court rupture improbable,risque
+Ordre fournisseur fiable historique de livraisons à l'heure délai de livraison standard sans tension capacitaire stock de sécurité supérieur au besoin hebdomadaire,ok
+Commande produit standard délai fournisseur maîtrisé demande régulière niveau de stock correct avec demande en forte hausse sans stock disponible,ok
+Plan stock suffisant fournisseur local délai court fournisseur fiable historique de livraisons à l'heure avec matière première stratégique pénurie mondiale,ok
+Commande fournisseur fiable historique de livraisons à l'heure demande saisonnière anticipée avec prévision fournisseur confirmé commande passée dans les délais,ok
+Commande fournisseur fiable historique de livraisons à l'heure demande régulière niveau de stock correct,ok
+Commande rupture securite niveau stock lead time court rupture improbable delai de livraison standard sans tension capacitaire approvisionnement confirme date dereception stable finalement stock suffisant fournisseur local delai court,ok
+Batch quantité raisonnable entrepôt non saturé transport disponible sans retard constaté,ok
+Batch demande saisonnière anticipée avec prévision transport disponible sans retard constaté et grève transporteur impossible de livrer à temps,ok
+Batch fluctuation de change coûts en forte hausse grève transporteur impossible de livrer à temps,risque
+Plan rupture securite niveau stock saturation entrepot capacite de stockage insuffisante,risque
+Commande capacité fournisseur réduite de moitié ce trimestre délais portuaires congestion douane incertaine,risque
+Ordre demande en forte hausse sans stock disponible tension sur les délais fournisseur risque de rupture identifié avec niveau de stock élevé consommation stable,risque
+Requête demande saisonnière anticipée avec prévision,ok
+Batch grève transporteur impossible de livrer à temps demande en forte hausse sans stock disponible,risque
+Ordre demande en forte hausse sans stock disponible stock critique approvisionnement non confirmé,risque
+Plan lead time court rupture improbable sans matière première stratégique pénurie mondiale,ok
+Plan approvisionnement confirmé date de réception stable sans délais portuaires congestion douane incertaine,ok
+Plan panne équipement de production ligne arrêtée rupture de stock probable délai fournisseur inconnu matière première stratégique pénurie mondiale sans approvisionnement planifié sans alerte,risque
+Requête panne équipement de production ligne arrêtée malgré niveau de stock élevé consommation stable,risque
+Batch tension sur les délais fournisseur risque de rupture identifié rupture de stock probable délai fournisseur inconnu retard de livraison critique pénalités contractuelles,risque
+Requete lead time inventaire requete fournisseur unique defaillance capacitaire signalee saturation entrepot capacite de stockage insuffisante rupture de stock probable delai fournisseur inconnu mais stock inferieur au seuil de securite rupture imminente,risque
+Commande quantité raisonnable entrepôt non saturé produit standard délai fournisseur maîtrisé transport disponible sans retard constaté,ok
+Plan produit standard délai fournisseur maîtrisé,ok
+Commande stock critique approvisionnement non confirmé grève transporteur impossible de livrer à temps,risque
+Requête délais portuaires congestion douane incertaine stock critique approvisionnement non confirmé stock critique approvisionnement non confirmé,risque
+Requête quantité raisonnable entrepôt non saturé fournisseur fiable historique de livraisons à l'heure suite à délais portuaires congestion douane incertaine,ok
+Plan stock de sécurité supérieur au besoin hebdomadaire produit standard délai fournisseur maîtrisé sans stock inférieur au seuil de sécurité rupture imminente,ok
+Ordre délais portuaires congestion douane incertaine saturation entrepôt capacité de stockage insuffisante stock inférieur au seuil de sécurité rupture imminente,risque
+Requête tension sur les délais fournisseur risque de rupture identifié capacité fournisseur réduite de moitié ce trimestre et quantité raisonnable entrepôt non saturé,risque
+Demande stock de sécurité supérieur au besoin hebdomadaire demande régulière niveau de stock correct transport disponible sans retard constaté,ok
+Commande panne équipement de production ligne arrêtée avec capacité entrepôt disponible stock de sécurité respecté,risque
+Commande capacité entrepôt disponible stock de sécurité respecté stock de sécurité supérieur au besoin hebdomadaire fournisseur fiable historique de livraisons à l'heure,ok
+Ordre niveau de stock élevé consommation stable sans capacité fournisseur réduite de moitié ce trimestre,ok
+Requête rupture de stock probable délai fournisseur inconnu stock inférieur au seuil de sécurité rupture imminente panne équipement de production ligne arrêtée,risque
+Plan rupture de stock probable délai fournisseur inconnu,risque
+Commande demande saisonnière anticipée avec prévision quantité raisonnable entrepôt non saturé approvisionnement planifié sans alerte,ok
+Requête demande en forte hausse sans stock disponible stock critique approvisionnement non confirmé,risque
+Plan tension sur les délais fournisseur risque de rupture identifié capacité fournisseur réduite de moitié ce trimestre,risque
+Commande retard de livraison critique pénalités contractuelles matière première stratégique pénurie mondiale capacité fournisseur réduite de moitié ce trimestre,risque
+Plan rupture de stock probable délai fournisseur inconnu tension sur les délais fournisseur risque de rupture identifié rupture de stock probable délai fournisseur inconnu,risque
+Requête délais portuaires congestion douane incertaine stock critique approvisionnement non confirmé lead time allongé transport perturbé par grève,risque
+Demande lead time allongé transport perturbé par grève,risque
+Batch délai de livraison standard sans tension capacitaire capacité entrepôt disponible stock de sécurité respecté délai de livraison standard sans tension capacitaire,ok
+Plan délai de livraison standard sans tension capacitaire rupture évitée grâce au stock de sécurité transport disponible sans retard constaté,ok
+Ordre rupture de stock probable délai fournisseur inconnu grève transporteur impossible de livrer à temps tension sur les délais fournisseur risque de rupture identifié sans produit standard délai fournisseur maîtrisé,risque
+Demande saturation entrepôt capacité de stockage insuffisante tension sur les délais fournisseur risque de rupture identifié,risque
+Demande fournisseur fiable historique de livraisons à l'heure lead time court rupture improbable commande urgente mais inventaire disponible,ok
+Requête tension sur les délais fournisseur risque de rupture identifié lead time allongé transport perturbé par grève retard de livraison critique pénalités contractuelles,risque
+Demande approvisionnement confirmé date de réception stable quantité raisonnable entrepôt non saturé,ok
+Demande capacite production fournisseur saturation entrepot capacite de stockage insuffisante grève transporteur impossible de livrer a temps capacite fournisseur reduite de moitie ce trimestre,risque
+Plan capacite production fournisseur stock suffisant fournisseur local delai court avant que stock suffisant fournisseur local delai court,ok
+Commande stock suffisant fournisseur local délai court stock suffisant fournisseur local délai court,ok
+Requête fournisseur unique défaillance capacitaire signalée délais portuaires congestion douane incertaine,risque
+Batch grève transporteur impossible de livrer à temps lead time allongé transport perturbé par grève délais portuaires congestion douane incertaine sans capacité entrepôt disponible stock de sécurité respecté,risque
+Ordre capacité entrepôt disponible stock de sécurité respecté fournisseur fiable historique de livraisons à l'heure et stock inférieur au seuil de sécurité rupture imminente,ok
+Plan lead time allongé transport perturbé par grève capacité fournisseur réduite de moitié ce trimestre,risque
+Commande transport disponible sans retard constaté approvisionnement planifié sans alerte approvisionnement planifié sans alerte,ok
+Requête niveau de stock élevé consommation stable niveau de stock élevé consommation stable commande urgente mais inventaire disponible suite à panne équipement de production ligne arrêtée,ok
+Plan capacité fournisseur réduite de moitié ce trimestre commande urgente aucun fournisseur disponible demande en forte hausse sans stock disponible,risque
+Demande retard de livraison critique pénalités contractuelles matière première stratégique pénurie mondiale,risque
+Demande fournisseur fiable historique de livraisons à l'heure stock de sécurité supérieur au besoin hebdomadaire quantité raisonnable entrepôt non saturé,ok
+Plan tension sur les délais fournisseur risque de rupture identifié stock critique approvisionnement non confirmé,risque
+Ordre rupture de stock probable délai fournisseur inconnu stock inférieur au seuil de sécurité rupture imminente délais portuaires congestion douane incertaine,risque
+Plan capacité fournisseur réduite de moitié ce trimestre grève transporteur impossible de livrer à temps et fournisseur fiable historique de livraisons à l'heure,risque
+Requête capacité fournisseur réduite de moitié ce trimestre demande en forte hausse sans stock disponible et rupture évitée grâce au stock de sécurité,risque
+Plan rupture securite niveau stock quantite raisonnable entrepot non sature niveau de stock eleve consommation stable,ok
+Ordre delai livraison commande transport produit standard delai fournisseur maitrise demande reguliere niveau de stock correct,ok
+Commande grève transporteur impossible de livrer à temps avec approvisionnement confirmé date de réception stable,risque
+Requête capacité fournisseur réduite de moitié ce trimestre capacité fournisseur réduite de moitié ce trimestre délais portuaires congestion douane incertaine,risque
+Demande rupture securite niveau stock commande urgente aucun fournisseur disponible lead time allonge transport perturbe par greve rupture de stock probable delai fournisseur inconnu,risque
+Plan transport disponible sans retard constaté approvisionnement planifié sans alerte demande saisonnière anticipée avec prévision sans retard de livraison critique pénalités contractuelles,ok
+Batch fournisseur unique défaillance capacitaire signalée grève transporteur impossible de livrer à temps,risque
+Commande stock inférieur au seuil de sécurité rupture imminente capacité fournisseur réduite de moitié ce trimestre rupture de stock probable délai fournisseur inconnu et commande urgente mais inventaire disponible,risque
+Demande capacité entrepôt disponible stock de sécurité respecté quantité raisonnable entrepôt non saturé,ok
+Plan matière première stratégique pénurie mondiale tension sur les délais fournisseur risque de rupture identifié,risque
+Requête demande saisonnière anticipée avec prévision approvisionnement planifié sans alerte stock de sécurité supérieur au besoin hebdomadaire,ok
+Plan transport disponible sans retard constaté fournisseur fiable historique de livraisons à l'heure demande régulière niveau de stock correct,ok
+Requete delai livraison commande transport fournisseur unique defaillance capacitaire signalee,risque
+Plan fournisseur unique défaillance capacitaire signalée tension sur les délais fournisseur risque de rupture identifié avec demande régulière niveau de stock correct,risque
+Batch commande urgente aucun fournisseur disponible,risque
+Ordre fournisseur fiable historique de livraisons à l'heure approvisionnement confirmé date de réception stable rupture évitée grâce au stock de sécurité suite à rupture de stock probable délai fournisseur inconnu,ok
+Ordre fluctuation de change coûts en forte hausse capacité fournisseur réduite de moitié ce trimestre,risque
+Demande fournisseur unique défaillance capacitaire signalée saturation entrepôt capacité de stockage insuffisante matière première stratégique pénurie mondiale,risque
+Batch lead time court rupture improbable suite à lead time allongé transport perturbé par grève,ok
+Requête délais portuaires congestion douane incertaine fournisseur unique défaillance capacitaire signalée malgré demande régulière niveau de stock correct,risque
+Plan niveau de stock élevé consommation stable demande régulière niveau de stock correct stock de sécurité supérieur au besoin hebdomadaire,ok
+Plan capacité fournisseur réduite de moitié ce trimestre grève transporteur impossible de livrer à temps malgré demande régulière niveau de stock correct,risque
+Plan délais portuaires congestion douane incertaine et fournisseur fiable historique de livraisons à l'heure,risque
+Batch rupture évitée grâce au stock de sécurité stock suffisant fournisseur local délai court niveau de stock élevé consommation stable,ok
+Plan approvisionnement confirmé date de réception stable stock suffisant fournisseur local délai court,ok
+Plan commande urgente mais inventaire disponible commande urgente mais inventaire disponible transport disponible sans retard constaté sans fluctuation de change coûts en forte hausse,ok
+Ordre produit standard délai fournisseur maîtrisé approvisionnement planifié sans alerte malgré lead time allongé transport perturbé par grève,ok
+Demande commande urgente aucun fournisseur disponible panne équipement de production ligne arrêtée,risque
+Commande quantité raisonnable entrepôt non saturé lead time court rupture improbable niveau de stock élevé consommation stable,ok
+Plan délai de livraison standard sans tension capacitaire fournisseur fiable historique de livraisons à l'heure sans retard de livraison critique pénalités contractuelles,ok
+Commande délais portuaires congestion douane incertaine capacité fournisseur réduite de moitié ce trimestre,risque
+Batch produit standard délai fournisseur maîtrisé délai de livraison standard sans tension capacitaire capacité entrepôt disponible stock de sécurité respecté,ok
+Plan capacite production fournisseur lead time allonge transport perturbe par greve,risque
+Requête fluctuation de change coûts en forte hausse stock inférieur au seuil de sécurité rupture imminente,risque
+Plan capacite production fournisseur niveau de stock eleve consommation stable approvisionnement confirme date dereception stable niveau de stock eleve consommation stable,ok
+Demande demande régulière niveau de stock correct lead time court rupture improbable approvisionnement planifié sans alerte et tension sur les délais fournisseur risque de rupture identifié,ok
+Demande demande régulière niveau de stock correct et rupture de stock probable délai fournisseur inconnu,ok
+Ordre saturation entrepôt capacité de stockage insuffisante et fournisseur confirmé commande passée dans les délais,risque
+Demande stock suffisant fournisseur local délai court fournisseur fiable historique de livraisons à l'heure niveau de stock élevé consommation stable,ok
+Demande stock fournisseur entrepot approvisionnement confirme date dereception stable demande reguliere niveau de stock correct,ok
+Demande fournisseur fiable historique de livraisons à l'heure fournisseur confirmé commande passée dans les délais avec demande en forte hausse sans stock disponible,ok
+Batch fluctuation de change coûts en forte hausse stock inférieur au seuil de sécurité rupture imminente,risque
+Batch produit standard délai fournisseur maîtrisé fournisseur confirmé commande passée dans les délais délai de livraison standard sans tension capacitaire et capacité fournisseur réduite de moitié ce trimestre,ok
+Batch demande régulière niveau de stock correct et rupture de stock probable délai fournisseur inconnu,ok
+Requête rupture évitée grâce au stock de sécurité approvisionnement planifié sans alerte demande régulière niveau de stock correct,ok
+Batch retard de livraison critique pénalités contractuelles délais portuaires congestion douane incertaine,risque
+Requête stock suffisant fournisseur local délai court demande régulière niveau de stock correct et délais portuaires congestion douane incertaine,ok
+Ordre rupture de stock probable délai fournisseur inconnu panne équipement de production ligne arrêtée stock inférieur au seuil de sécurité rupture imminente,risque
+Requête produit standard délai fournisseur maîtrisé approvisionnement planifié sans alerte,ok
+Ordre capacité entrepôt disponible stock de sécurité respecté délai de livraison standard sans tension capacitaire transport disponible sans retard constaté sans saturation entrepôt capacité de stockage insuffisante,ok
+Ordre approvisionnement planifié sans alerte stock suffisant fournisseur local délai court transport disponible sans retard constaté malgré capacité fournisseur réduite de moitié ce trimestre,ok
+Requête rupture de stock probable délai fournisseur inconnu commande urgente aucun fournisseur disponible capacité fournisseur réduite de moitié ce trimestre suite à transport disponible sans retard constaté,risque
+Requête commande urgente mais inventaire disponible avec grève transporteur impossible de livrer à temps,ok
+Batch tension sur les délais fournisseur risque de rupture identifié matière première stratégique pénurie mondiale,risque
+Plan matière première stratégique pénurie mondiale et transport disponible sans retard constaté,risque
+Commande fournisseur fiable historique de livraisons à l'heure commande urgente mais inventaire disponible approvisionnement planifié sans alerte et stock inférieur au seuil de sécurité rupture imminente,ok
+Requête lead time court rupture improbable malgré commande urgente aucun fournisseur disponible,ok
+Batch demande en forte hausse sans stock disponible grève transporteur impossible de livrer à temps rupture de stock probable délai fournisseur inconnu,risque
+Demande capacité entrepôt disponible stock de sécurité respecté approvisionnement planifié sans alerte capacité entrepôt disponible stock de sécurité respecté,ok
+Commande demande régulière niveau de stock correct quantité raisonnable entrepôt non saturé niveau de stock élevé consommation stable,ok
+Commande stock suffisant fournisseur local délai court stock suffisant fournisseur local délai court demande régulière niveau de stock correct,ok
+Batch stock suffisant fournisseur local délai court capacité entrepôt disponible stock de sécurité respecté délai de livraison standard sans tension capacitaire,ok
+Requête commande urgente aucun fournisseur disponible tension sur les délais fournisseur risque de rupture identifié,risque
+Commande lead time allongé transport perturbé par grève fournisseur unique défaillance capacitaire signalée malgré capacité entrepôt disponible stock de sécurité respecté,risque
+Ordre retard de livraison critique pénalités contractuelles stock inférieur au seuil de sécurité rupture imminente,risque
+Commande tension sur les délais fournisseur risque de rupture identifié,risque
+Ordre stock de sécurité supérieur au besoin hebdomadaire lead time court rupture improbable lead time court rupture improbable,ok
+Requête lead time court rupture improbable demande régulière niveau de stock correct et tension sur les délais fournisseur risque de rupture identifié,ok
+Batch demande régulière niveau de stock correct fournisseur fiable historique de livraisons à l'heure approvisionnement confirmé date de réception stable et demande en forte hausse sans stock disponible,ok
+Requête approvisionnement planifié sans alerte stock de sécurité supérieur au besoin hebdomadaire malgré fournisseur unique défaillance capacitaire signalée,ok
+Requête saturation entrepôt capacité de stockage insuffisante stock critique approvisionnement non confirmé commande urgente aucun fournisseur disponible avec stock de sécurité supérieur au besoin hebdomadaire,risque
+Demande commande urgente aucun fournisseur disponible délais portuaires congestion douane incertaine commande urgente aucun fournisseur disponible,risque
+Requête approvisionnement planifié sans alerte approvisionnement planifié sans alerte malgré matière première stratégique pénurie mondiale,ok
+Batch approvisionnement planifié sans alerte malgré fluctuation de change coûts en forte hausse,ok
+Requête grève transporteur impossible de livrer à temps panne équipement de production ligne arrêtée tension sur les délais fournisseur risque de rupture identifié,risque
+Commande niveau de stock élevé consommation stable stock suffisant fournisseur local délai court,ok
+Demande stock inférieur au seuil de sécurité rupture imminente,risque
+Demande panne équipement de production ligne arrêtée panne équipement de production ligne arrêtée grève transporteur impossible de livrer à temps,risque
+Ordre capacité fournisseur réduite de moitié ce trimestre panne équipement de production ligne arrêtée retard de livraison critique pénalités contractuelles,risque
+Ordre capacité fournisseur réduite de moitié ce trimestre,risque
+Plan stock suffisant fournisseur local délai court délai de livraison standard sans tension capacitaire approvisionnement planifié sans alerte suite à tension sur les délais fournisseur risque de rupture identifié,ok
+Requête stock critique approvisionnement non confirmé sans niveau de stock élevé consommation stable,risque
+Ordre tension sur les délais fournisseur risque de rupture identifié panne équipement de production ligne arrêtée,risque
+Plan grève transporteur impossible de livrer à temps demande en forte hausse sans stock disponible suite à approvisionnement confirmé date de réception stable,risque
+Plan capacité entrepôt disponible stock de sécurité respecté,ok
+Requête tension sur les délais fournisseur risque de rupture identifié grève transporteur impossible de livrer à temps,risque
+Plan stock de sécurité supérieur au besoin hebdomadaire fournisseur fiable historique de livraisons à l'heure lead time court rupture improbable,ok
+Batch grève transporteur impossible de livrer à temps lead time allongé transport perturbé par grève,risque
+Commande approvisionnement confirmé date de réception stable produit standard délai fournisseur maîtrisé quantité raisonnable entrepôt non saturé,ok
+Ordre tension sur les délais fournisseur risque de rupture identifié grève transporteur impossible de livrer à temps,risque
+Demande rupture évitée grâce au stock de sécurité stock suffisant fournisseur local délai court demande saisonnière anticipée avec prévision,ok
+Commande délai de livraison standard sans tension capacitaire commande urgente mais inventaire disponible délai de livraison standard sans tension capacitaire et matière première stratégique pénurie mondiale,ok
+Batch fluctuation de change coûts en forte hausse tension sur les délais fournisseur risque de rupture identifié fournisseur unique défaillance capacitaire signalée,risque
+Ordre grève transporteur impossible de livrer à temps tension sur les délais fournisseur risque de rupture identifié,risque
+Demande stock de sécurité supérieur au besoin hebdomadaire niveau de stock élevé consommation stable avec fluctuation de change coûts en forte hausse,ok
+Ordre lead time court rupture improbable fournisseur fiable historique de livraisons à l'heure stock suffisant fournisseur local délai court et tension sur les délais fournisseur risque de rupture identifié,ok
+Requête panne équipement de production ligne arrêtée retard de livraison critique pénalités contractuelles,risque
+Demande capacite production fournisseur fournisseur fiable historique de livraisons a lheure,ok
+Plan délais portuaires congestion douane incertaine demande en forte hausse sans stock disponible capacité fournisseur réduite de moitié ce trimestre suite à stock de sécurité supérieur au besoin hebdomadaire,risque
+Commande panne équipement de production ligne arrêtée commande urgente aucun fournisseur disponible,risque
+Demande quantité raisonnable entrepôt non saturé délai de livraison standard sans tension capacitaire quantité raisonnable entrepôt non saturé,ok
+Ordre stock suffisant fournisseur local délai court avec stock critique approvisionnement non confirmé,ok
+Requête fluctuation de change coûts en forte hausse avec produit standard délai fournisseur maîtrisé,risque
+Plan panne équipement de production ligne arrêtée tension sur les délais fournisseur risque de rupture identifié lead time allongé transport perturbé par grève,risque
+Batch grève transporteur impossible de livrer à temps délais portuaires congestion douane incertaine,risque
+Batch stock de sécurité supérieur au besoin hebdomadaire demande saisonnière anticipée avec prévision capacité entrepôt disponible stock de sécurité respecté malgré capacité fournisseur réduite de moitié ce trimestre,ok
+Requête grève transporteur impossible de livrer à temps fluctuation de change coûts en forte hausse,risque
+Batch niveau de stock élevé consommation stable transport disponible sans retard constaté,ok
+Demande lead time court rupture improbable transport disponible sans retard constaté lead time court rupture improbable,ok
+Commande stock de sécurité supérieur au besoin hebdomadaire approvisionnement planifié sans alerte quantité raisonnable entrepôt non saturé,ok
+Plan rupture évitée grâce au stock de sécurité approvisionnement confirmé date de réception stable,ok
+Demande demande régulière niveau de stock correct suite à retard de livraison critique pénalités contractuelles,ok
+Plan stock critique approvisionnement non confirmé saturation entrepôt capacité de stockage insuffisante fluctuation de change coûts en forte hausse,risque
+Plan rupture securite niveau stock commande urgente aucun fournisseur disponible panne equipement de production ligne arretee retard de livraison critique penalites contractuelles,risque
+Demande approvisionnement confirmé date de réception stable et lead time allongé transport perturbé par grève,ok
+Batch delai livraison commande transport stock de securite superieur au besoin hebdomadaire ensuite transport disponible sans retard constate,ok
+Commande délai de livraison standard sans tension capacitaire lead time court rupture improbable produit standard délai fournisseur maîtrisé,ok
+Batch rupture évitée grâce au stock de sécurité demande saisonnière anticipée avec prévision,ok
+Batch saturation entrepôt capacité de stockage insuffisante fournisseur unique défaillance capacitaire signalée demande en forte hausse sans stock disponible,risque
+Ordre capacité entrepôt disponible stock de sécurité respecté avec retard de livraison critique pénalités contractuelles,ok
+Ordre panne équipement de production ligne arrêtée saturation entrepôt capacité de stockage insuffisante,risque
+Commande demande régulière niveau de stock correct rupture évitée grâce au stock de sécurité produit standard délai fournisseur maîtrisé et commande urgente aucun fournisseur disponible,ok
+Plan lead time allongé transport perturbé par grève délais portuaires congestion douane incertaine lead time allongé transport perturbé par grève,risque
+Requête stock suffisant fournisseur local délai court commande urgente mais inventaire disponible fournisseur confirmé commande passée dans les délais avec stock critique approvisionnement non confirmé,ok
+Ordre approvisionnement planifié sans alerte suite à retard de livraison critique pénalités contractuelles,ok
+Demande lead time inventaire requete capacite fournisseur reduite de moitie ce trimestre fluctuation dechange couts en forte hausse,risque
+Batch retard de livraison critique pénalités contractuelles stock inférieur au seuil de sécurité rupture imminente,risque
+Plan délais portuaires congestion douane incertaine fluctuation de change coûts en forte hausse,risque
+Commande approvisionnement planifié sans alerte délai de livraison standard sans tension capacitaire transport disponible sans retard constaté,ok
+Requête approvisionnement confirmé date de réception stable transport disponible sans retard constaté stock suffisant fournisseur local délai court,ok
+Commande demande en forte hausse sans stock disponible panne équipement de production ligne arrêtée tension sur les délais fournisseur risque de rupture identifié,risque
+Commande retard de livraison critique pénalités contractuelles matière première stratégique pénurie mondiale avec stock suffisant fournisseur local délai court,risque
+Requête retard de livraison critique pénalités contractuelles rupture de stock probable délai fournisseur inconnu,risque
+Commande stock inférieur au seuil de sécurité rupture imminente,risque
+Batch commande urgente mais inventaire disponible demande saisonnière anticipée avec prévision malgré rupture de stock probable délai fournisseur inconnu,ok
+Requête produit standard délai fournisseur maîtrisé stock de sécurité supérieur au besoin hebdomadaire fournisseur confirmé commande passée dans les délais,ok
+Requête stock inférieur au seuil de sécurité rupture imminente lead time allongé transport perturbé par grève demande en forte hausse sans stock disponible sans fournisseur confirmé commande passée dans les délais,risque
+Batch rupture évitée grâce au stock de sécurité niveau de stock élevé consommation stable approvisionnement confirmé date de réception stable,ok
+Requête quantité raisonnable entrepôt non saturé produit standard délai fournisseur maîtrisé,ok
+Commande stock de sécurité supérieur au besoin hebdomadaire fournisseur fiable historique de livraisons à l'heure,ok
+Plan panne équipement de production ligne arrêtée tension sur les délais fournisseur risque de rupture identifié saturation entrepôt capacité de stockage insuffisante et produit standard délai fournisseur maîtrisé,risque
+Ordre fournisseur unique défaillance capacitaire signalée commande urgente aucun fournisseur disponible malgré délai de livraison standard sans tension capacitaire,risque
+Demande tension sur les délais fournisseur risque de rupture identifié demande en forte hausse sans stock disponible stock critique approvisionnement non confirmé,risque
+Batch stock fournisseur entrepot stock inferieur au seuil de securite rupture imminente,risque
+Requête délai de livraison standard sans tension capacitaire délai de livraison standard sans tension capacitaire stock suffisant fournisseur local délai court,ok
+Requête produit standard délai fournisseur maîtrisé malgré fluctuation de change coûts en forte hausse,ok
+Demande niveau de stock élevé consommation stable,ok
+Commande fournisseur fiable historique de livraisons à l'heure sans stock critique approvisionnement non confirmé,ok
+Commande matière première stratégique pénurie mondiale tension sur les délais fournisseur risque de rupture identifié avec fournisseur fiable historique de livraisons à l'heure,risque
+Batch approvisionnement confirmé date de réception stable suite à commande urgente aucun fournisseur disponible,ok
+Demande approvisionnement confirmé date de réception stable rupture évitée grâce au stock de sécurité,ok
+Ordre demande régulière niveau de stock correct sans demande en forte hausse sans stock disponible,ok
+Requête délais portuaires congestion douane incertaine,risque
+Plan commande urgente mais inventaire disponible lead time court rupture improbable quantité raisonnable entrepôt non saturé avec commande urgente aucun fournisseur disponible,ok
+Plan commande urgente mais inventaire disponible sans saturation entrepôt capacité de stockage insuffisante,ok
+Demande commande urgente aucun fournisseur disponible malgré produit standard délai fournisseur maîtrisé,risque
+Batch capacité fournisseur réduite de moitié ce trimestre matière première stratégique pénurie mondiale demande en forte hausse sans stock disponible,risque
+Ordre commande urgente mais inventaire disponible quantité raisonnable entrepôt non saturé,ok
+Batch lead time inventaire requete quantite raisonnable entrepot non sature transport disponible sans retard constate fournisseur fiable historique de livraisons a lheure,ok
+Batch tension sur les délais fournisseur risque de rupture identifié avec fournisseur fiable historique de livraisons à l'heure,risque
+Batch demande saisonnière anticipée avec prévision fournisseur fiable historique de livraisons à l'heure,ok
+Requête fournisseur unique défaillance capacitaire signalée avec produit standard délai fournisseur maîtrisé,risque
+Batch niveau de stock élevé consommation stable demande saisonnière anticipée avec prévision,ok
+Plan demande prevision saisonnalite fluctuation dechange couts en forte hausse,risque
+Commande grève transporteur impossible de livrer à temps délais portuaires congestion douane incertaine stock critique approvisionnement non confirmé,risque
+Commande fournisseur confirmé commande passée dans les délais niveau de stock élevé consommation stable avec rupture de stock probable délai fournisseur inconnu,ok
+Demande stock inférieur au seuil de sécurité rupture imminente retard de livraison critique pénalités contractuelles,risque
+Commande approvisionnement confirmé date de réception stable lead time court rupture improbable malgré capacité fournisseur réduite de moitié ce trimestre,ok
+Ordre niveau de stock élevé consommation stable niveau de stock élevé consommation stable,ok
+Plan lead time inventaire requete produit obsolete risque demarquage eleve lead time allonge transport perturbe par greve,risque
+Plan rupture de stock probable délai fournisseur inconnu panne équipement de production ligne arrêtée,risque
+Ordre lead time court rupture improbable demande saisonnière anticipée avec prévision suite à grève transporteur impossible de livrer à temps,ok
+Plan commande urgente mais inventaire disponible stock de sécurité supérieur au besoin hebdomadaire capacité entrepôt disponible stock de sécurité respecté,ok
+Batch demande en forte hausse sans stock disponible panne équipement de production ligne arrêtée,risque
+Ordre quantité raisonnable entrepôt non saturé demande saisonnière anticipée avec prévision malgré délais portuaires congestion douane incertaine,ok
+Ordre tension sur les délais fournisseur risque de rupture identifié stock inférieur au seuil de sécurité rupture imminente,risque
+Batch quantité raisonnable entrepôt non saturé,ok
+Plan saturation entrepôt capacité de stockage insuffisante malgré stock de sécurité supérieur au besoin hebdomadaire,risque
+Commande stock fournisseur entrepot stock inferieur au seuil de securite rupture imminente stock inferieur au seuil de securite rupture imminente,risque
+Ordre fluctuation de change coûts en forte hausse fournisseur unique défaillance capacitaire signalée délais portuaires congestion douane incertaine malgré capacité entrepôt disponible stock de sécurité respecté,risque
+Ordre demande en forte hausse sans stock disponible tension sur les délais fournisseur risque de rupture identifié stock critique approvisionnement non confirmé et niveau de stock élevé consommation stable,risque
+Demande lead time allongé transport perturbé par grève tension sur les délais fournisseur risque de rupture identifié malgré approvisionnement confirmé date de réception stable,risque
+Ordre quantité raisonnable entrepôt non saturé capacité entrepôt disponible stock de sécurité respecté,ok
+Commande commande urgente aucun fournisseur disponible capacité fournisseur réduite de moitié ce trimestre stock inférieur au seuil de sécurité rupture imminente,risque
+Batch tension sur les délais fournisseur risque de rupture identifié grève transporteur impossible de livrer à temps fournisseur unique défaillance capacitaire signalée,risque
+Demande fournisseur confirmé commande passée dans les délais lead time court rupture improbable avec demande en forte hausse sans stock disponible,ok
+Plan tension sur les délais fournisseur risque de rupture identifié commande urgente aucun fournisseur disponible avec fournisseur fiable historique de livraisons à l'heure,risque
+Commande fournisseur confirmé commande passée dans les délais transport disponible sans retard constaté fournisseur fiable historique de livraisons à l'heure avec fournisseur unique défaillance capacitaire signalée,ok
+Plan quantité raisonnable entrepôt non saturé stock suffisant fournisseur local délai court suite à capacité fournisseur réduite de moitié ce trimestre,ok
+Demande demande en forte hausse sans stock disponible délais portuaires congestion douane incertaine,risque
+Requête délais portuaires congestion douane incertaine grève transporteur impossible de livrer à temps rupture de stock probable délai fournisseur inconnu malgré approvisionnement confirmé date de réception stable,risque

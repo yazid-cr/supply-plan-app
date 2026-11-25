@@ -1,0 +1,25 @@
+cmd: python src/train_mlflow.py
+deps:
+- path: data/prepared
+  hash: md5
+  md5: be84317cf8c550bd493bf0a1d70f553e.dir
+  size: 503242
+  nfiles: 2
+- path: src/train_mlflow.py
+  hash: md5
+  md5: a61936301e696a0584afee9c661e4464
+  size: 4695
+params:
+  params.yaml:
+    train.min_df: 2
+    train.ngram_max: 2
+    train.seed: 42
+outs:
+- path: models/metrics.json
+  hash: md5
+  md5: a9ba96195068b0f7e95c76fc59e49a24
+  size: 359
+- path: models/supply.joblib
+  hash: md5
+  md5: c624839def3a0be93996118682b39dd5
+  size: 49393

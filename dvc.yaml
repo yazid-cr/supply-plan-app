@@ -1,0 +1,28 @@
+stages:
+  prepare:
+    cmd: python src/prepare.py data/demo_demandes.csv
+    deps:
+      - src/prepare.py
+      - data/demo_demandes.csv
+    params:
+      - params.yaml:
+          - prepare.seed
+          - prepare.test_size
+    outs:
+      - data/prepared
+
+  train:
+    cmd: python src/train_mlflow.py
+    deps:
+      - src/train_mlflow.py
+      - data/prepared
+    params:
+      - params.yaml:
+          - train.seed
+          - train.ngram_max
+          - train.min_df
+    outs:
+      - models/supply.joblib
+    metrics:
+      - models/metrics.json:
+          cache: false

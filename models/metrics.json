@@ -1,25 +1,23 @@
 {
-  "source": "demo",
-  "n_total": 4290,
-  "n_train": 3432,
-  "n_test": 858,
-  "f1_macro": 0.985,
-  "accuracy": 0.985,
-  "recall_risque": 0.984,
-  "recall_ok": 0.986,
-  "precision_risque": 0.986,
-  "precision_ok": 0.984,
-  "f1_risque": 0.985,
-  "f1_ok": 0.985,
+  "f1_macro": 0.9854,
+  "accuracy": 0.9854,
+  "recall_risque": 0.9824,
+  "recall_ok": 0.9883,
+  "precision_risque": 0.9882,
+  "precision_ok": 0.9826,
+  "f1_risque": 0.9853,
+  "f1_ok": 0.9855,
+  "vocab_size": 1306,
+  "n_train": 2728,
+  "n_test": 683,
   "confusion": [
     [
-      422,
-      7
+      334,
+      6
     ],
     [
-      6,
-      423
+      4,
+      339
     ]
-  ],
-  "vocab_size": 1313
+  ]
 }
