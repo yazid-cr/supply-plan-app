@@ -5,7 +5,14 @@ L'adresse de l'API est dans ui/client.py (API_URL).
 """
 from __future__ import annotations
 
+import sys
 from pathlib import Path
+
+# S'assure que la racine du projet est dans sys.path (nécessaire quand
+# Streamlit est lancé via `streamlit run ui/app.py`)
+_ROOT = Path(__file__).resolve().parent.parent
+if str(_ROOT) not in sys.path:
+    sys.path.insert(0, str(_ROOT))
 
 import streamlit as st
 

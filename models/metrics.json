@@ -1,25 +1,25 @@
 {
   "source": "demo",
-  "n_total": 290,
-  "n_train": 232,
-  "n_test": 58,
-  "f1_macro": 1.0,
-  "accuracy": 1.0,
-  "recall_risque": 1.0,
-  "recall_ok": 1.0,
-  "precision_risque": 1.0,
-  "precision_ok": 1.0,
-  "f1_risque": 1.0,
-  "f1_ok": 1.0,
+  "n_total": 4290,
+  "n_train": 3432,
+  "n_test": 858,
+  "f1_macro": 0.985,
+  "accuracy": 0.985,
+  "recall_risque": 0.984,
+  "recall_ok": 0.986,
+  "precision_risque": 0.986,
+  "precision_ok": 0.984,
+  "f1_risque": 0.985,
+  "f1_ok": 0.985,
   "confusion": [
     [
-      29,
-      0
+      422,
+      7
     ],
     [
-      0,
-      29
+      6,
+      423
     ]
   ],
-  "vocab_size": 441
+  "vocab_size": 1313
 }
